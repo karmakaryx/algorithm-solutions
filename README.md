@@ -1,3 +1,4 @@
-# **Baekjoon Online Judge: Karyx💫's Everyday Coding Test**
+# **[Baekjoon Online Judge]**
 
-### 🪴 Cultivating since 2026-02-13
+### **Karyx💫's Everyday Coding Test**
+#### 🪴 cultivating since 2026-02-13
