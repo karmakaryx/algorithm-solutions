@@ -2,7 +2,6 @@
 🪴 cultivating since 2026-02-13
 
 <div id="index"></div>
-<br>
 
 ## **💡 Problem Solving Log**
 | DATE | PID | TITLE | LEVEL | COMMENT |
@@ -60,4 +59,4 @@
 - **[PID3107] IPv6:**<br>
 스핑크스 수수께끼 같은 문제가 아니라 유용한 전산지식도 줘서 좋은 문제였습니다. :)
 
-<p align="center"><a href="index"><img src="https://img.shields.io/badge/Back%20to%20Index-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+<p align="center"><a href="#index"><img src="https://img.shields.io/badge/Back%20to%20Index-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
