@@ -7,7 +7,7 @@
 | DATE | PID | TITLE | LEVEL | COMMENT |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-02-23 | 9251 | [LCS](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) | Gold IV | [Longest Common Subsequence..](#PID9251) |
-| 2026-02-21 | 20529 | [가장 가까운 세 사람의..](https://github.com/karmakaryx/algorithm-solutions/blob/main/%EB%B0%B1%EC%A4%80/Silver/20529.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EC%84%B8%E2%80%85%EC%82%AC%EB%9E%8C%EC%9D%98%E2%80%85%EC%8B%AC%EB%A6%AC%EC%A0%81%E2%80%85%EA%B1%B0%EB%A6%AC) | Silver I | [이 비둘기집에는 커플까지만 살..](#PID20529) |
+| 2026-02-21 | 20529 | [가장 가까운 세 사람의..](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/20529.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EC%84%B8%E2%80%85%EC%82%AC%EB%9E%8C%EC%9D%98%E2%80%85%EC%8B%AC%EB%A6%AC%EC%A0%81%E2%80%85%EA%B1%B0%EB%A6%AC) | Silver I | [이 비둘기집에는 커플까지만 살..](#PID20529) |
 | 2026-02-20 | 1141 | [접두사](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/1141.%E2%80%85%EC%A0%91%EB%91%90%EC%82%AC) | Silver I | [hell이 hello의 접두사면.. 월요일..](#PID1141) |
 | 2026-02-19 | 3107 | [IPv6](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/3107.%E2%80%85IPv6) | Silver I | [스핑크스 수수께끼 같은 문제가..](#PID3107) |
 | 2026-02-18 | 11286 | [절댓값 힙](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/11286.%E2%80%85%EC%A0%88%EB%8C%93%EA%B0%92%E2%80%85%ED%9E%99) | Silver I | [엊그제 나온 힙을 풀어봤으면..](#PID11286) |
