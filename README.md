@@ -6,16 +6,16 @@
 ## **💡 Problem Solving Log**
 | DATE | PID | TITLE | LEVEL | COMMENT |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026-02-23 | 9251 | [LCS](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) | Gold IV | [Longest Common Subsequence(최장..](#PID9251) |
-| 2026-02-21 | 20529 | [가장 가까운 세 사람의 심리적 거리](./백준/Silver/20529.%E2%80%85가장%E2%80%85가까운%E2%80%85세%E2%80%85사람의%E2%80%85심리적%E2%80%85거리) | Silver I | [이 비둘기집에는 커플까지만 살..](#PID20529) |
-| 2026-02-20 | 1141 | [접두사](./백준/Silver/1141.%E2%80%85접두사) | Silver I | [hell이 hello의 접두사면.. 월요일..](#PID1141) |
-| 2026-02-19 | 3107 | [IPv6](./백준/Silver/3107.%E2%80%85IPv6) | Silver I | [스핑크스 수수께끼 같은 문제가..](#PID3107) |
-| 2026-02-18 | 11286 | [절댓값 힙](./백준/Silver/11286.%E2%80%85절댓값%E2%80%85힙) | Silver I | [엊그제 나온 힙을 풀어봤으면..](#PID11286) |
-| 2026-02-17 | 5430 | [AC](./백준/Gold/5430.%E2%80%85AC) | Gold V | [이 문제 함정 많네요..](#PID5430) |
-| 2026-02-16 | 1655 | [가운데를 말해요](./백준/Gold/1655.%E2%80%85가운데를%E2%80%85말해요) | Gold II | [이번엔 힙한 힙이군요. 이..](#PID1655) |
-| 2026-02-15 | 9012 | [괄호](./백준/Silver/9012.%E2%80%85괄호) | Silver IV | [(아직은) 자료구조가 파이썬 문제보다..](#PID9012) |
-| 2026-02-15 | 14425 | [문자열 집합](./백준/Silver/14425.%E2%80%85문자열%E2%80%85집합) | Silver IV | [문제에서 이미 집합이라고 힌트를..](#PID14425) |
-| 2026-02-14 | 11509 | [풍선 맞추기](./백준/Gold/11509.%E2%80%85풍선%E2%80%85맞추기) | Gold V | [이건 언어영역 문제네요. 문제..](#PID11509) |
+| 2026-02-23 | 9251 | [LCS](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) | Gold IV | [Longest Common Subsequence..](#PID9251) |
+| 2026-02-21 | 20529 | [가장 가까운 세 사람의..](https://github.com/karmakaryx/algorithm-solutions/blob/main/%EB%B0%B1%EC%A4%80/Silver/20529.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EC%84%B8%E2%80%85%EC%82%AC%EB%9E%8C%EC%9D%98%E2%80%85%EC%8B%AC%EB%A6%AC%EC%A0%81%E2%80%85%EA%B1%B0%EB%A6%AC) | Silver I | [이 비둘기집에는 커플까지만 살..](#PID20529) |
+| 2026-02-20 | 1141 | [접두사](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/1141.%E2%80%85%EC%A0%91%EB%91%90%EC%82%AC) | Silver I | [hell이 hello의 접두사면.. 월요일..](#PID1141) |
+| 2026-02-19 | 3107 | [IPv6](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/3107.%E2%80%85IPv6) | Silver I | [스핑크스 수수께끼 같은 문제가..](#PID3107) |
+| 2026-02-18 | 11286 | [절댓값 힙](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/11286.%E2%80%85%EC%A0%88%EB%8C%93%EA%B0%92%E2%80%85%ED%9E%99) | Silver I | [엊그제 나온 힙을 풀어봤으면..](#PID11286) |
+| 2026-02-17 | 5430 | [AC](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/5430.%E2%80%85AC) | Gold V | [이 문제 함정 많네요..](#PID5430) |
+| 2026-02-16 | 1655 | [가운데를 말해요](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/1655.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%E2%80%85%EB%A7%90%ED%95%B4%EC%9A%94) | Gold II | [이번엔 힙한 힙이군요. 이..](#PID1655) |
+| 2026-02-15 | 9012 | [괄호](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8) | Silver IV | [(아직은) 자료구조가 파이썬 문제보다..](#PID9012) |
+| 2026-02-15 | 14425 | [문자열 집합](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/14425.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A7%91%ED%95%A9) | Silver IV | [문제에서 이미 집합이라고 힌트를..](#PID14425) |
+| 2026-02-14 | 11509 | [풍선 맞추기](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/11509.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0) | Gold V | [이건 언어영역 문제네요. 문제..](#PID11509) |
 | 2026-02-14 | 1629 | [곱셈](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/1629.%E2%80%85%EA%B3%B1%EC%85%88) | Silver I | [분할정복 문제라 지수법칙을 이용했고..](#PID1629) |
 | 2026-02-13 | 25083 | [새싹](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Bronze/25083.%E2%80%85%EC%83%88%EC%8B%B9) | Bronze V | [모내기 시작합니다! 자라나라 머리머리 🌱](#PID25083) |
 <br>
