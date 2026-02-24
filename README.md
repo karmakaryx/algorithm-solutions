@@ -6,7 +6,7 @@
 ## **💡 Problem Solving Log**
 | DATE | PID | TITLE | LEVEL | COMMENT |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026-02-24 | 11478 | [서로 다른 부분 문자열의 개수](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/11478.%E2%80%85%EC%84%9C%EB%A1%9C%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | Silver III | [서로 다른 부분 문자열의 개수](#PID11478) |
+| 2026-02-24 | 11478 | [서로 다른 부분 문자열의 개수](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/11478.%E2%80%85%EC%84%9C%EB%A1%9C%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | Silver III | [중복제거니 집합이고 서로 다른..](#PID11478) |
 | 2026-02-23 | 9251 | [LCS](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) | Gold IV | [Longest Common Subsequence..](#PID9251) |
 | 2026-02-21 | 20529 | [가장 가까운 세 사람의 심리적..](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/20529.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EC%84%B8%E2%80%85%EC%82%AC%EB%9E%8C%EC%9D%98%E2%80%85%EC%8B%AC%EB%A6%AC%EC%A0%81%E2%80%85%EA%B1%B0%EB%A6%AC) | Silver I | [이 비둘기집에는 커플까지만 살..](#PID20529) |
 | 2026-02-20 | 1141 | [접두사](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/1141.%E2%80%85%EC%A0%91%EB%91%90%EC%82%AC) | Silver I | [hell이 hello의 접두사면.. 월요일..](#PID1141) |
