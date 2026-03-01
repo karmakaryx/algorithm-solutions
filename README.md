@@ -6,6 +6,7 @@
 ## **💡 Problem Solving Log**
 | DATE | PID | TITLE | LEVEL | COMMENT |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-03-01 | 10699 | [오늘 날짜](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10699.%E2%80%85%EC%98%A4%EB%8A%98%E2%80%85%EB%82%A0%EC%A7%9C) | Bronze V | [Bronze 폴더 분리용. 대회..](#PID10699) |
 | 2026-02-25 | 3568 | [iSharp](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/3568.%E2%80%85iSharp) | Silver III | [선영이 키보드 1년 압수..](#PID3568) |
 | 2026-02-24 | 11478 | [서로 다른 부분 문자열의 개수](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Silver/11478.%E2%80%85%EC%84%9C%EB%A1%9C%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | Silver III | [중복제거니 집합이고 서로 다른..](#PID11478) |
 | 2026-02-23 | 9251 | [LCS](https://github.com/karmakaryx/algorithm-solutions/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) | Gold IV | [Longest Common Subsequence..](#PID9251) |
@@ -89,5 +90,9 @@
 <a name="PID3568"></a>
 - **[PID3568] iSharp:**
 <br>선영이 키보드 1년 압수. 내일부터 대회라 바빠 죽겠는데..
+
+<a name="PID10699"></a>
+- **[PID10699] 오늘 날짜:**
+<br>Bronze 폴더 분리용. 대회 중이라 바빠서 당분간 코테는 쉽니다.
 
 <br>
